@@ -1,0 +1,3 @@
+teams = ["Braves", "Yankees","Nationals"];
+wins = [62,58,66];
+losses = [58, 89, 56];
